@@ -10,6 +10,8 @@ const filesToDownload = [
   'killAll.js',
   'runHacking.js',
   'find.js',
+  'scan.js',
+  'connect.js'
 ]
 const valuesToRemove = ['BB_SERVER_MAP']
 
