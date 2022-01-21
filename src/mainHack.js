@@ -2,7 +2,7 @@ const settings = {
     homeRamReserved: 20,
     homeRamReservedBase: 20,
     homeRamExtraRamReserved: 12,
-    homeRamBigMode: 64,
+    homeRamBigMode: 16,
     minSecurityLevelOffset: 1,
     maxMoneyMultiplayer: 0.9,
     minSecurityWeight: 100,
